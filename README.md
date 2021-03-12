@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on?
 - 📫 How to reach me [telegram](https://t.me/voharoobot)
-My Special [Repo](https://github/Xlaaf/KrustyRobot)
+
+- 🐙 my Special [Repo](https://github.com/Xlaaf/KrustyRobot)
 
 <!---
 Xlaaf/Xlaaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
