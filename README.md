@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xlaaf
 - 👀 I’m interested in telegram bot 
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning python javascript and nodejs
 - 💞️ I’m looking to collaborate on?
 - 📫 How to reach me [telegram](https://t.me/nekozusupport)
 
