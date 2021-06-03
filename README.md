@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Xlaaf
-- 👀 I’m interested in telegram bot 
-- 🌱 I’m currently learning python javascript and nodejs
-- 💞️ I’m looking to collaborate on?
-- 📫 How to reach me [telegram](https://t.me/nekozusupport)
-
-- 🐙 my Special [Repo](https://github.com/Xlaaf/KrustyRobot)
+- Konnichiwa watashi wa Xlaafu Desu!
+- Watashi interesting on [python](python.org) and [nodejs](nodejs.org)
+- want to contact with me? [Click](t.me/bonk_with_doge)
 
 ## ✍️ **My Github Stats**
 ![Xlaaf github stats](https://github-readme-stats.vercel.app/api?username=Xlaaf&show_icons=true&theme=tokyonight)
