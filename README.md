@@ -1,6 +1,6 @@
 - Konnichiwa watashi wa Xlaafu Desu!
-- Watashi interesting on [python](python.org) and [nodejs](nodejs.org)
-- want to contact with me? [Click](t.me/bonk_with_doge)
+- Watashi interesting on [python](https://python.org) and [nodejs](https://nodejs.org)
+- want to contact with me? [Click](https://t.me/bonk_with_doge)
 
 ## ✍️ **My Github Stats**
 ![Xlaaf github stats](https://github-readme-stats.vercel.app/api?username=Xlaaf&show_icons=true&theme=tokyonight)
