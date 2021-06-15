@@ -1,5 +1,5 @@
 - Konnichiwa watashi wa Xlaafu Desu!
-- Watashi interesting on [python](https://python.org) and [nodejs](https://nodejs.org)
+- i am interesting on [python](https://python.org) and [nodejs](https://nodejs.org)
 - want to contact with me? [Click](https://t.me/bonk_with_doge)
 
 ## ✍️ **My Github Stats**
