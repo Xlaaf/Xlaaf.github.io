@@ -1,6 +1,5 @@
-- Konnichiwa watashi wa Xlaafu Desu!
-- i am interesting on [python](https://python.org) and [nodejs](https://nodejs.org)
-- want to contact with me? [Click](https://t.me/bonk_with_doge)
+- Welcome to my github page
+- this page is for gabut
 
 ## ✍️ **My Github Stats**
 ![Xlaaf github stats](https://github-readme-stats.vercel.app/api?username=Xlaaf&show_icons=true&theme=tokyonight)
@@ -8,6 +7,8 @@
 ## 💻 **Languages Learn.**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xlaaf&custom_title=Languages%20I%20learning%20:3&theme=tokyonight&hide_border=true)
+
+[Page lainnya](https://xlaaf.github.io/time)
 
 <!---
 Xlaaf/Xlaaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
